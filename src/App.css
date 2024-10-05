@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+  background-image: url('./assets/images/food2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* ///add css/// */
+.bg{
+    background-color: rgb(47, 79, 79)!important;
+    opacity: 0.9;
+    color: #ffffff;
+    border-radius:15px !important;
+} 
+
+/* ////view css//// */
+.box{
+    background-color:  rgb(33, 64, 64) !important;
+    opacity: 0.9;
+    color: #ffffff !important;
+   
+}
+/* Edit css */
+.bg{
+    background-color:  rgb(47, 26, 40) !important;
+    opacity: 0.9;
+    color: #ffffff;
+    border-radius: 25%;
+} 
+
